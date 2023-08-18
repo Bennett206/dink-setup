@@ -16,7 +16,7 @@
 ### 5. Set up your 'Dink' settings for what loot, levels, milestones, etc. you want OSRS to post to the channel!
 
 <p align="center">
-  You can set threshholds/intervals so it's not posting every single boss kill/loot drop:
+  You can set threshholds/intervals so it's not posting every single piece of loot/level-up:
 </p>
 
 <p align="center">
